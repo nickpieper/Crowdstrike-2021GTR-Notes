@@ -20,3 +20,16 @@ Ransomware families and their differences:
   --------------
   * DarkSide (Carbon Spider)
 These families above the line are in order of confirmed healthcare sector deployments in 2020 (via CS)
+
+Key points (not related to any countries):
+
+* eCrime has gained 10% YoY versus targeted intrusion groups. These groups are denoted with the "SPIDER" naming convention.
+* COVID19 brought healthcare into the spotlight within these groups. Some adversaries used COVID-19 themes in lures, while some outright targeted the healthcare/govt response sector.
+* eCrime groups are broadening their operational focuses from a specific veritcal to multiple sectors/verticles to hit big game. (ex Graceful Spider when from targeted eCrime to launching their own RaaS operation. Carbon Spider shifting away from PoS campaigns and developing DarkSide.)
+* DLSs (data leak sites) are incresingly becoming common by ransomware operators. This combines the detremental aspects of file encryption with data leakage to maximize corporate payouts.
+* While DLS/data leaks grew, the way it was done is different among groups. Some groups do releases with a percentage of data while others release in numbered parts.
+  - Carbon Spider uses an automated system to release data.
+  - Releasing data by type is also done (Viking Spider, Pinchy Spider)
+* Industrial/Engineering & Manufacturing were hit the hardest with data leaks in 2020.
+* Access brokers selling entry into networks was a notable 2020 addition to the report (Lunar Spider and Mallard Spider use their capabilities to do this) 
+-Page 25-
